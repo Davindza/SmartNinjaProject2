@@ -1,0 +1,60 @@
+@media (min-width: 400px) {
+.bg-light {
+background-color:#6b4c0b !important;
+}
+.btn-outline-success {
+background-color:#211e19 !important;
+border-color:#211e19 !important;
+color:#775911;
+}
+.navbar-light .navbar-brand {
+color:#bf8703 !important;
+}
+.navbar-light .navbar-nav .nav-link{
+color:black !important;}
+}
+
+.w-100 {
+width:1000px !important;
+position:fixed;
+left:250px;
+bottom:350px;
+}
+
+.card1 {
+position:fixed;
+left:200px;
+bottom:100px;
+}
+
+.card2 {
+position:fixed;
+left:600px;
+bottom:100px;
+}
+
+.card3 {
+position:fixed;
+left:1000px;
+bottom:100px;
+}
+
+.table1 {
+border-width:1px;
+border-style:solid;
+padding:10px;
+width:500px;
+position:fixed;
+left:300px;
+bottom:10px;
+}
+
+.table2 {
+border-width:1px;
+border-style:solid;
+padding:1px;
+width:500px;
+position:fixed;
+left:300px;
+bottom:0px;
+}
